@@ -16,7 +16,7 @@ int main()
 	std::discrete_distribution<int> roll{8,12,12,65,40};
 
 	
-	while (69)
+	while (true)
 	{
 		std::cin.ignore();
 
